@@ -1,0 +1,3 @@
+8;18/05/2019 12:35:20;Electro-menager;Courty;0135362578;rue Huchette Paris;Lave-linge;False;-1;0;association;1,2;1;1;1,2;18/05/2019 12:44:50
+6;18/05/2019 12:33:54;Electro-menager;Legros;0176789876;rue FelixFaure Paris;cuisinière;True;2;0;Garde-meuble;1,5;1;1;1,5;18/05/2019 12:44:25;18/05/2019 12:46:25
+3;18/05/2019 12:30:44;Mobilier Chambre;Courty;0135362578;rue Huchette Paris;armoire;True;-1;100;Depot-vente;2;1;0,5;1;18/05/2019 12:42:53;18/05/2019 12:47:00;2;Depot_Paris;14 avenue des Champs Elysées;0156324895

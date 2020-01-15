@@ -1,0 +1,11 @@
+D:\Documents\mes documents\travail scolaire\Programmation Orientée Objet avancée\probleme\Projet_mpt\Projet_mpt\bin\Debug\netcoreapp2.1\Projet_mpt.deps.json
+D:\Documents\mes documents\travail scolaire\Programmation Orientée Objet avancée\probleme\Projet_mpt\Projet_mpt\bin\Debug\netcoreapp2.1\Projet_mpt.runtimeconfig.json
+D:\Documents\mes documents\travail scolaire\Programmation Orientée Objet avancée\probleme\Projet_mpt\Projet_mpt\bin\Debug\netcoreapp2.1\Projet_mpt.runtimeconfig.dev.json
+D:\Documents\mes documents\travail scolaire\Programmation Orientée Objet avancée\probleme\Projet_mpt\Projet_mpt\bin\Debug\netcoreapp2.1\Projet_mpt.dll
+D:\Documents\mes documents\travail scolaire\Programmation Orientée Objet avancée\probleme\Projet_mpt\Projet_mpt\bin\Debug\netcoreapp2.1\Projet_mpt.pdb
+D:\Documents\mes documents\travail scolaire\Programmation Orientée Objet avancée\probleme\Projet_mpt\Projet_mpt\obj\Debug\netcoreapp2.1\Projet_mpt.csprojAssemblyReference.cache
+D:\Documents\mes documents\travail scolaire\Programmation Orientée Objet avancée\probleme\Projet_mpt\Projet_mpt\obj\Debug\netcoreapp2.1\Projet_mpt.csproj.CoreCompileInputs.cache
+D:\Documents\mes documents\travail scolaire\Programmation Orientée Objet avancée\probleme\Projet_mpt\Projet_mpt\obj\Debug\netcoreapp2.1\Projet_mpt.AssemblyInfoInputs.cache
+D:\Documents\mes documents\travail scolaire\Programmation Orientée Objet avancée\probleme\Projet_mpt\Projet_mpt\obj\Debug\netcoreapp2.1\Projet_mpt.AssemblyInfo.cs
+D:\Documents\mes documents\travail scolaire\Programmation Orientée Objet avancée\probleme\Projet_mpt\Projet_mpt\obj\Debug\netcoreapp2.1\Projet_mpt.dll
+D:\Documents\mes documents\travail scolaire\Programmation Orientée Objet avancée\probleme\Projet_mpt\Projet_mpt\obj\Debug\netcoreapp2.1\Projet_mpt.pdb

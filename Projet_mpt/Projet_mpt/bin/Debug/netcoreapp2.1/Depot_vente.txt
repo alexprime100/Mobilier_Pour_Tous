@@ -1,0 +1,2 @@
+2;18/05/2019 12:30:02;Mobilier Chambre;Dupond;0103047676;rue de la République Paris;Chevet;True;-1;200;Depot-vente;0;0;0;0;18/05/2019 12:38:07;18/05/2019 12:38:07;1;Depot_Devinci;14 avenue Leonard de Vinci Courbevoie;0145987532
+4;18/05/2019 12:31:49;Mobilier cuisine;Legrand;0178766567;rue Pompidou Paris;Table;True;-1;60;Depot-vente;1;3;1;3;18/05/2019 12:43:21;18/05/2019 12:43:21;2;Depot_Paris;14 avenue des Champs Elysées;0156324895

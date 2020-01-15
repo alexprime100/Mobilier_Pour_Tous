@@ -1,0 +1,1 @@
+1;18/05/2019 12:29:21;Mobilier Chambre;Durand;0102030405;rue des Sablons Paris;Matelas;True;1;0;Garde-meuble;0,1;2;1,4;0,28;18/05/2019 12:36:34;18/06/2019 12:36:34
